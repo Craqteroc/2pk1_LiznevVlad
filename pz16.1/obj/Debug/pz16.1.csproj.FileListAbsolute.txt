@@ -1,0 +1,8 @@
+D:\Коды\2pk1_LiznevVlad\pz16.1\bin\Debug\pz16.1.exe.config
+D:\Коды\2pk1_LiznevVlad\pz16.1\bin\Debug\pz16.1.exe
+D:\Коды\2pk1_LiznevVlad\pz16.1\bin\Debug\pz16.1.pdb
+D:\Коды\2pk1_LiznevVlad\pz16.1\obj\Debug\pz16.1.csproj.AssemblyReference.cache
+D:\Коды\2pk1_LiznevVlad\pz16.1\obj\Debug\pz16.1.csproj.SuggestedBindingRedirects.cache
+D:\Коды\2pk1_LiznevVlad\pz16.1\obj\Debug\pz16.1.csproj.CoreCompileInputs.cache
+D:\Коды\2pk1_LiznevVlad\pz16.1\obj\Debug\pz16.1.exe
+D:\Коды\2pk1_LiznevVlad\pz16.1\obj\Debug\pz16.1.pdb
