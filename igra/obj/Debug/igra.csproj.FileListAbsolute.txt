@@ -1,0 +1,16 @@
+D:\Коды\2pk1_LiznevVlad\igra\bin\Debug\igra.exe.config
+D:\Коды\2pk1_LiznevVlad\igra\bin\Debug\igra.exe
+D:\Коды\2pk1_LiznevVlad\igra\bin\Debug\igra.pdb
+D:\Коды\2pk1_LiznevVlad\igra\obj\Debug\igra.csproj.AssemblyReference.cache
+D:\Коды\2pk1_LiznevVlad\igra\obj\Debug\igra.csproj.SuggestedBindingRedirects.cache
+D:\Коды\2pk1_LiznevVlad\igra\obj\Debug\igra.csproj.CoreCompileInputs.cache
+D:\Коды\2pk1_LiznevVlad\igra\obj\Debug\igra.exe
+D:\Коды\2pk1_LiznevVlad\igra\obj\Debug\igra.pdb
+E:\Программирование\igra\bin\Debug\igra.exe.config
+E:\Программирование\igra\bin\Debug\igra.exe
+E:\Программирование\igra\bin\Debug\igra.pdb
+E:\Программирование\igra\obj\Debug\igra.csproj.AssemblyReference.cache
+E:\Программирование\igra\obj\Debug\igra.csproj.SuggestedBindingRedirects.cache
+E:\Программирование\igra\obj\Debug\igra.csproj.CoreCompileInputs.cache
+E:\Программирование\igra\obj\Debug\igra.exe
+E:\Программирование\igra\obj\Debug\igra.pdb
